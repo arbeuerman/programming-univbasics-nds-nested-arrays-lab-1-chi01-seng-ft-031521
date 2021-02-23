@@ -21,9 +21,10 @@ def assembled_matrix
   produce = []
   produce << CONVENTIONAL_PRODUCE
   produce << ORGANIC_PRODUCE
+  produce
 end
 
-puts assembled_matrix
+puts
 
 def sorted_matrix
   # Using Array literal syntax only, build another nested array that 
