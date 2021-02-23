@@ -21,7 +21,6 @@ def assembled_matrix
   produce = []
   produce << CONVENTIONAL_PRODUCE
   produce << ORGANIC_PRODUCE
-  produce
 end
 
 puts assembled_matrix
