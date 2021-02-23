@@ -24,6 +24,8 @@ def assembled_matrix
   produce
 end
 
+puts assembled_matrix
+
 def sorted_matrix
   # Using Array literal syntax only, build another nested array that 
   # uses the arrays of conventional and organic produce as before.
